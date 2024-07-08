@@ -1,6 +1,7 @@
 # RG Pre-work Assignment 
 
-
+<br>
+<br>
 
 
 ### Running the SQL Script:
@@ -26,7 +27,8 @@
    - Type `.quit` to exit the SQLite shell.
 
 
-
+<br>
+<br>
 
 ### Running the Python Script:
 
