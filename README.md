@@ -1,10 +1,11 @@
 # RG Pre-work Assignment 
 
 <br>
-<br>
 
 
 ### Running the SQL Script:
+
+<br>
 
 1. **Open a Terminal or Command Prompt:**
    - Navigate to the folder where you have stored the assignment files.
@@ -28,9 +29,10 @@
 
 
 <br>
-<br>
 
 ### Running the Python Script:
+
+<br>
 
 1. **Ensure Python is Installed:**
    - Make sure Python is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
