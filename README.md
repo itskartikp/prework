@@ -1,6 +1,8 @@
 # RG Pre-work Assignment 
 
 
+
+
 ### Running the SQL Script:
 
 1. **Open a Terminal or Command Prompt:**
@@ -22,6 +24,8 @@
 
 6. **Quit SQLite3:**
    - Type `.quit` to exit the SQLite shell.
+
+
 
 
 ### Running the Python Script:
